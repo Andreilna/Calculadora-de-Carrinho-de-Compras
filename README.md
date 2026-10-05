@@ -68,10 +68,16 @@ val relatorioLinhas = itens
 ## 📸 Capturas de Tela
 
 ### 1. Tela do Emulador
-*(Insira aqui a imagem da tela principal do aplicativo rodando no emulador)*
+
+<p align="center">
+  <img src="./images/tela-emulador.png" alt="Tela principal do aplicativo no emulador" width="350">
+</p>
 
 ### 2. Relatório no Logcat
-*(Insira aqui a imagem do terminal Logcat exibindo a tag `RelatorioCarrinho`)*
+
+<p align="center">
+  <img src="./images/logcat.png" alt="Relatório do carrinho exibido no Logcat" width="800">
+</p>
 
 ---
 
